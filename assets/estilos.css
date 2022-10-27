@@ -1,5 +1,5 @@
 html{
-    scroll-behavoir: smooth;
+    scroll-behavior: smooth;
 }
 
 img{
@@ -20,4 +20,11 @@ h2{
     color: #003137;
 }
 
+body{
+    border-radius: 32px;
+    margin: 10px 10px;
+    padding: 20px;
+    border-color: #003137;
+    border-width: 2px;
+}
 
